@@ -1,0 +1,7 @@
+{
+  "name": "algorithms",
+  "description": "Strings, Arrays, Data Structures, Algorithms",
+  "main": "README.md",
+  "author": "Stephen Dooley <stephen.dooley6@gmail.com>",
+  "license": "ISC"
+}
